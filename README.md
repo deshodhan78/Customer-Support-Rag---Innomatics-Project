@@ -70,11 +70,6 @@ streamlit run app.py
 
 ---
 
-## 📄 Documentation
-For a deep dive into the design decisions, trade-offs, and testing strategies, please refer to the [Technical Documentation](./technical_documentation.md).
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
