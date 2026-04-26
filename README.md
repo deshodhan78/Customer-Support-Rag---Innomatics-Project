@@ -1,4 +1,4 @@
-# 🛠️ TechNova Support RAG Assistant
+# 🛠️ Customer Support RAG Assistant
 
 An advanced **Agentic Retrieval-Augmented Generation (RAG)** system designed to provide technical support for TechNova X1000 routers. This project uses **LangGraph** for sophisticated workflow orchestration and includes a **Human-In-The-Loop (HITL)** escalation mechanism.
 
